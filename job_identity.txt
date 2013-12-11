@@ -6,26 +6,5 @@
 
 qirong 农业部信息中心
 
-注意：有部分可能为外包公司
-中国科学院信息工程研究所招聘大数据方向研究人员	http://www.newsmth.net/nForum/#!article/Career_Campus/171144
-中科院信息工程研究所					http://www.newsmth.net/nForum/#!article/Career_Campus/171169
-电子六所								http://www.ncse.com.cn/hr/disphr.asp?id=15
-中央人民广播电台技术管理人员			http://cnr.gongzhao.net/GZBM/job/lookOverJob.do?jobID=2cb448f0-e51c-4280-8a1b-d087a264e826&jobFile=
-中科院信工所第五研究室					http://www.newsmth.net/nForum/#!article/Career_Campus/171234
-中科院软件所招聘数据库系统开发工程师	http://www.newsmth.net/nForum/#!article/Career_Campus/171306
 
-中科院网络中心							http://www.newsmth.net/nForum/#!article/Career_Campus/171289
-中科院软件所并行实验室招聘计算机程序员	http://www.newsmth.net/nForum/#!article/Career_Campus/171284
-【2014中科院软件所】综合信息重点实验室招聘信息	http://www.newsmth.net/nForum/#!article/Career_Campus/171328
-北京首都国际机场股份有限公司2014校园招聘	http://www.newsmth.net/nForum/#!article/Career_Campus/171424
-
-北航网络信息中心招聘应届毕业生			http://www.newsmth.net/nForum/#!article/Career_Campus/171410
-以下三个职位邮箱相同
-【中国知网CNKI】诚聘C++研发工程师		http://www.newsmth.net/nForum/#!article/Career_Campus/171413
-【中国知网CNKI】诚聘研发工程师(图像检索方向)	http://www.newsmth.net/nForum/#!article/Career_Campus/171414
-【中国知网CNKI】诚聘NLP方向研发工程师	http://www.newsmth.net/nForum/#!article/Career_Campus/171415
-
-【百分点】校招各类研发工程师			http://www.newsmth.net/nForum/#!article/Career_Campus/171001
-兰亭集势2014校园招聘(技术类)			http://www.newsmth.net/nForum/#!article/Career_Campus/171011
-无双科技(北京)有限公司诚招软件工程师	http://www.newsmth.net/nForum/#!article/Career_Campus/171201
 
